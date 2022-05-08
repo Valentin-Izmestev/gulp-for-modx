@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="57" viewBox="0 0 64 57">
+  <g id="иконка_дом" data-name="иконка дом" transform="translate(-237 -921)">
+    <g id="Объединение_1" data-name="Объединение 1" transform="translate(237 921)" fill="none">
+      <path d="M9.481,57V25.446H0L32,0,64,25.446H54.519V57Z" stroke="none"/>
+      <path d="M 52.51860809326172 55 L 52.51860809326172 25.44643020629883 L 52.51860809326172 23.44643020629883 L 54.51860809326172 23.44643020629883 L 58.27146911621094 23.44643020629883 L 31.99943923950195 2.555265188217163 L 5.728360176086426 23.44643020629883 L 9.481399536132813 23.44643020629883 L 11.48139953613281 23.44643020629883 L 11.48139953613281 25.44643020629883 L 11.48139953613281 55 L 52.51860809326172 55 M 54.51860809326172 57 L 9.481399536132813 57 L 9.481399536132813 25.44643020629883 L 0 25.44643020629883 L 31.99942016601563 -3.552713678800501e-15 L 64 25.44643020629883 L 54.51860809326172 25.44643020629883 L 54.51860809326172 57 Z" stroke="none" fill="#1472d0"/>
+    </g>
+    <line id="Линия_4" data-name="Линия 4" y1="37" transform="translate(269.46 939.501)" fill="none" stroke="#1472d0" stroke-width="2"/>
+    <path id="Контур_1" data-name="Контур 1" d="M-3785.427,518.824V508.1l2.965-2.965" transform="translate(4064.788 458.001)" fill="none" stroke="#1472d0" stroke-width="2"/>
+    <path id="Контур_2" data-name="Контур 2" d="M-3789.419,518.824v-22l2.105-2.319" transform="translate(4063.927 458.001)" fill="none" stroke="#1472d0" stroke-width="2"/>
+    <path id="Контур_3" data-name="Контур 3" d="M-3797.615,518.5V492.2l-2.479-3.131" transform="translate(4061.952 458.001)" fill="none" stroke="#1472d0" stroke-width="2"/>
+    <path id="Контур_4" data-name="Контур 4" d="M-3802.034,518.824V502.6l-3.125-3.126" transform="translate(4061.032 458.001)" fill="none" stroke="#1472d0" stroke-width="2"/>
+    <g id="Эллипс_4" data-name="Эллипс 4" transform="translate(265.973 933.245)" fill="none" stroke="#1472d0" stroke-width="2">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+    </g>
+    <g id="Эллипс_7" data-name="Эллипс 7" transform="translate(256.315 941.409)" fill="none" stroke="#1472d0" stroke-width="2">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+    </g>
+    <g id="Эллипс_8" data-name="Эллипс 8" transform="translate(250.279 952.633)" fill="none" stroke="#1472d0" stroke-width="2">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+    </g>
+    <g id="Эллипс_5" data-name="Эллипс 5" transform="translate(275.631 946.511)" fill="none" stroke="#1472d0" stroke-width="2">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+    </g>
+    <g id="Эллипс_6" data-name="Эллипс 6" transform="translate(280.459 957.735)" fill="none" stroke="#1472d0" stroke-width="2">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+    </g>
+  </g>
+</svg>
